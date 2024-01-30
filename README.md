@@ -12,6 +12,13 @@ This repository contains the code and datasets for the research project titled "
 - Md. Reasad Zaman Chowdhury
 - Mohammad Marufur Rahman
 
+## Full Documentation
+
+Please refer to the following paper for an overview of the project and the outcomes of the project.
+
+[Access The Paper Here](https://www.overleaf.com/read/tvjkxwwvnjhz#4c05e4)
+
+
 ## Project Overview
 
 Numerical features and log mel-spectrograms were extracted from the audio files and then processed and analyzed to determine the characteristics of the sentiments expressed.
