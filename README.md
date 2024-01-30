@@ -46,8 +46,8 @@ git clone https://github.com/Arcane2202/CSE4238_Group5_Project.git
 
 ## Prerequisites
 Ensure you have the following installed:
--Python 3.x
--Required Python libraries: numpy, pandas, matplotlib, librosa, tensorflow, scikit-learn, opencv-python, noisereduce, soundfile along with other common ones.
+- Python 3.x
+- Python libraries: numpy, pandas, matplotlib, librosa, tensorflow, scikit-learn, opencv-python, noisereduce, soundfile along with other common ones.
 
 ## Future Work
 We plan to further enhance this project by exploring more advanced Deep Learning architectures, and improving the feature extraction techniques to enhance the models' performances.
