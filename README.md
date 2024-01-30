@@ -45,5 +45,5 @@ Ensure you have the following installed:
 We plan to extend this project by exploring more advanced DL architectures, incorporating larger and more diverse datasets, and improving the feature extraction techniques to enhance the models' performance.
 
 ## Acknowledgments
-Our heartfelt gratitude to all contributors and supporters of this project.
+Our heartfelt gratitude to all contributors of this project.
 Special thanks to our supervisors, Md. Reasad Zaman Chowdhury and Mohammad Marufur Rahman, for their guidance and invaluable insights throughout the project.
