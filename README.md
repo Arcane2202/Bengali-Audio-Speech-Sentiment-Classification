@@ -16,7 +16,7 @@ This repository contains the code and datasets for the research project titled "
 
 Please refer to the following paper for an overview of the project and the outcomes of the project.
 
-[Access The Paper Here](https://www.overleaf.com/read/tvjkxwwvnjhz#4c05e4)
+[Access The Paper Here](#)
 
 
 ## Project Overview
