@@ -3,9 +3,9 @@
 This repository contains the code and datasets for the research project titled "Bengali Audio Speech Sentiment Classification using Machine Learning and Deep Learning Models: A Comparative Study". A comparative analysis of the effectiveness of different ML models and Deep Learning models in classifying Bengali audio speech sentiment was the primary goal of this study.
 
 ## Contributors
-- [Animesh Das Chowdhury](https://github.com/T1RTHO)
 - [Mohammad Tanveer Shams](https://github.com/Arcane2202)
 - [Akib Hasan Omi](https://github.com/MDAkibHasan)
+- [Animesh Das Chowdhury](https://github.com/T1RTHO)
 - [Tabassum Jahan Lamia](https://github.com/TabassumJahanLamia)
 
 ### Supervisors
